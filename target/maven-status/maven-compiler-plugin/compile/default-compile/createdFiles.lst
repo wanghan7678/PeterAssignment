@@ -1,0 +1,6 @@
+com/example/text/ITextFilter.class
+com/example/Main.class
+com/example/text/ITextCounter.class
+com/example/text/OrdinaryEnglishCounter.class
+com/example/text/OrdinaryEnglishCleaner.class
+com/example/text/ITextCleaner.class
